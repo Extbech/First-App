@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": null,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://cx-gmg.anonymous.firstapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.cx-gmg.anonymous.firstapp.exp.direct",
+  "ngrokPid": 597,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
