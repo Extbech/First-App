@@ -96,6 +96,11 @@ const Signup = ({navigation}) => {
         <InnerContainer>
           <PageTitle>Flower Crib</PageTitle>
           <SubTitle>Account Signup</SubTitle>
+          <ExtraView>
+            <TextLink onPress={() => navigation.navigate("Welcome", {'name' : 'Benjamin', 'email' : 'Benjamin.Chandler@gmail.com'})}>
+              <TextLinkContent>Welcome</TextLinkContent>
+            </TextLink>
+          </ExtraView>
           {show && (
             <DateTimePicker
               testID="dateTimePicker"
