@@ -1,4 +1,5 @@
 # First-App
 First App
-![alt tag](https://github.com/Extbech/First-App/blob/main/Screenshots/Login_screen.jpg =250x250)
+
+![](./Screenshots/Login_screen.jpg =100x100)
 Screenshots are attached
