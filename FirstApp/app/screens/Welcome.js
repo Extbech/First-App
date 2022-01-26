@@ -25,8 +25,8 @@ const Welcome = ({navigation, route}) => {
                 <WelcomeImage resizeMode="cover" source={require('../assets/icon1.png')}/>              
                 <WelcomeContainer>
                     <PageTitle welcome={true}>Welcome buddy!</PageTitle>
-                    <SubTitle welcome={true}>{name || 'Mailin Saglien'}</SubTitle>
-                    <SubTitle welcome={true}>{email || 'Saglien.mailin@gmail.com'}</SubTitle>
+                    <SubTitle welcome={true}>{name || 'Benjamin Chandler'}</SubTitle>
+                    <SubTitle welcome={true}>{email || 'Benjamin.Chandler@gmail.com'}</SubTitle>
                         <StyledFormArea>
                         <Avatar resizeMode="cover" source={require('../assets/icon.png')}/>
                             <Line />
