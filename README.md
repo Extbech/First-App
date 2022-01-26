@@ -1,5 +1,5 @@
 # First-App
 First App
 
-![ScreenShot](Login_Screen.jpg)
+![ScreenShot](Screenshots/Login_Screen.jpg)
 Screenshots are attached
