@@ -4,6 +4,6 @@ First App
 ![ScreenShot](Screenshots/Login_Screen.jpg)
 
 <p align="center">
-  <img src="https://github.com/Extbech/First-App/blob/main/Screenshots/Login_Screen.png?raw=true" alt="My custom image"/>
+  <img src="https://github.com/Extbech/First-App/blob/main/Screenshots/Login_Screen.jpg" alt="My custom image"/>
 </p>
 Screenshots are attached
